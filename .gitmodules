@@ -1,0 +1,16 @@
+[submodule "themes/blowfish"]
+	path = themes/blowfish
+	url = git@github.com:nunocoracao/blowfish.git
+	branch = main
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = git@github.com:theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/hextra"]
+	path = themes/hextra
+	url = git@github.com:imfing/hextra.git
+[submodule "themes/hugo-theme-stack"]
+	path = themes/hugo-theme-stack
+	url = git@github.com:CaiJimmy/hugo-theme-stack.git
+[submodule "themes/hugo-theme-void"]
+	path = themes/hugo-theme-void
+	url = git@github.com:Daucloud/hugo-theme-void.git
